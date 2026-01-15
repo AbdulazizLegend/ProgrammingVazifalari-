@@ -1,5 +1,11 @@
 # A = int(input("a:"))
+
+
+
 # B = int(input("b:"))
+
+
+
 
 # while A >= B:
 #     A -= B
@@ -7,7 +13,13 @@
 # print(A)
 
 # A = int(input("a:"))
+
+
+
 # B = int(input("b:"))
+
+
+
 
 # count = 0
 # while A >= B:
@@ -17,7 +29,13 @@
 # print(count)
 
 # N = int(input("n:"))
+
+
+
 # K = int(input("k:"))
+
+
+
 
 # butun = 0
 # while N >= K:
@@ -29,6 +47,9 @@
 
 # n = int(input())
 
+
+
+
 # temp = n
 # while temp > 1:
 #     temp -= temp // 3 * 2  
@@ -39,6 +60,9 @@
 #     print("3 ning darajasi emas")
 
 # n = int(input("n:"))
+
+
+
 # k = 0
 
 # while n > 1:
@@ -48,6 +72,9 @@
 # print(k)
 
 # n = int(input("n:"))
+
+
+
 # res = 1
 
 # while n > 0:
@@ -57,6 +84,9 @@
 # print(res)
 
 # n = int(input("n:"))
+
+
+
 # k = 1
 
 # while k * k <= n:
@@ -65,6 +95,9 @@
 # print(k)
 
 # n = int(input("n:"))
+
+
+
 # k = 1
 
 # while (k + 1) * (k + 1) <= n:
@@ -73,6 +106,9 @@
 # print(k)
 
 # n = int(input("n:"))
+
+
+
 # k = 0
 # p = 1
 
@@ -83,6 +119,9 @@
 # print(k)
 
 # n = int(input("n:"))
+
+
+
 # k = 0
 # p = 1
 

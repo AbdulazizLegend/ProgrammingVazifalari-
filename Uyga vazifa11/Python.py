@@ -1,11 +1,23 @@
 # k = int(input("k:"))
+
+
+
 # n = int(input("n:"))
+
+
+
 
 # for i in range(n):
 #     print(k)
 
 # a = int(input("a:"))
+
+
+
 # b = int(input("b:"))
+
+
+
 
 # count = 0
 # for i in range(a, b + 1):
@@ -15,7 +27,13 @@
 # print("Soni:", count)
 
 # a = int(input("a:"))
+
+
+
 # b = int(input("b:"))
+
+
+
 
 # count = 0
 # for i in range(b - 1, a, -1):
@@ -26,15 +44,24 @@
 
 # price = float(input("son:"))
 
+
+
+
 # for i in range(1, 11):
 #     print(i, "kg =", i * price)
 
 # price = float(input("son:"))
 
+
+
+
 # for i in range(1, 11):
 #     print(i / 10, "kg =", (i / 10) * price)
 
 # price = float(input("son:"))
+
+
+
 
 # x = 1.2
 # while x <= 2:
@@ -42,7 +69,13 @@
 #     x += 0.2
 
 # a = int(input("a:"))
+
+
+
 # b = int(input("b:"))
+
+
+
 
 # s = 0
 # for i in range(a, b + 1):
@@ -51,7 +84,13 @@
 # print(s)
 
 # a = int(input("a:"))
+
+
+
 # b = int(input("b:"))
+
+
+
 
 # p = 1
 # for i in range(a, b + 1):
@@ -60,7 +99,13 @@
 # print(p)
 
 # a = int(input("a:"))
+
+
+
 # b = int(input("b:"))
+
+
+
 
 # s = 0
 # for i in range(a, b + 1):
@@ -69,6 +114,9 @@
 # print(s)
 
 # n = int(input())
+
+
+
 
 # s = 0
 # for i in range(1, n + 1):
@@ -78,6 +126,9 @@
 
 # n = int(input())
 
+
+
+
 # s = 0
 # for i in range(n, 2 * n + 1):
 #     s += i * i
@@ -86,6 +137,9 @@
 
 n = int(input())
 
+
+
+
 s = 1
 for i in range(1, n + 1):
     s *= (1 + i / 10)
@@ -93,6 +147,9 @@ for i in range(1, n + 1):
 print(s)
 
 n = int(input())
+
+
+
 
 s = 0
 sign = 1
@@ -104,13 +161,22 @@ print(s)
 
 n = int(input())
 
+
+
+
 s = 0
 for i in range(1, n + 1):
     s += 2 * i - 1
     print(i, "kvadrati =", s)
 
 n = int(input())
+
+
+
 a = float(input())
+
+
+
 
 p = 1
 for i in range(n):
@@ -119,7 +185,13 @@ for i in range(n):
 print(p)
 
 n = int(input())
+
+
+
 a = float(input())
+
+
+
 
 p = 1
 for i in range(1, n + 1):
@@ -127,7 +199,13 @@ for i in range(1, n + 1):
     print("a^", i, "=", p)
 
 n = int(input())
+
+
+
 a = float(input())
+
+
+
 
 s = 1
 p = 1
@@ -141,7 +219,13 @@ for i in range(1, n + 1):
 print("Yig'indi =", s)
 
 n = int(input())
+
+
+
 a = float(input())
+
+
+
 
 s = 1
 p = 1
@@ -156,6 +240,9 @@ print(s)
 
 n = int(input())
 
+
+
+
 f = 1
 for i in range(1, n + 1):
     f *= i
@@ -163,6 +250,9 @@ for i in range(1, n + 1):
 print(f)
 
 n = int(input())
+
+
+
 
 s = 0
 f = 1
